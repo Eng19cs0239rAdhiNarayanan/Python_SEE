@@ -30,4 +30,23 @@ In this implementation, data1 is a
 dictionary and data2 is a list where
 each key-value pair in data2 is also
 a list [key, value] of length 2.
-'''
+''
+Test case 1:
+4 
+1 2
+3 3
+3 8
+4 9 
+2 
+3 3
+4 4
+
+Test case 2:
+
+4 
+1 2
+2 2
+4 19
+2 
+3 3
+4 19
